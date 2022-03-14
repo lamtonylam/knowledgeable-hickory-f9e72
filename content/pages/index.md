@@ -99,6 +99,13 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: 1/2
+        - name: home-address
+          label: Home address
+          hideLabel: false
+          placeholder: Your home address
+          isRequired: false
+          width: full
+          type: TextFormControl
       submitLabel: Send Message
     media:
       url: /images/48ACD.png
