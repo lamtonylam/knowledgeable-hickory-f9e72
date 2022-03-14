@@ -16,4 +16,9 @@ layout: PostLayout
 ---
 koulusafkaa.
 
+
+
+> Hän joka syö koulusafkaa, käyttää hyväksi verorahojaan.
+> \- Tony
+
 ![](/images/IMG\_3878-ac57c2f3.jpg)
