@@ -114,7 +114,7 @@ sections:
     colors: colors-a
     quote: |
       “Fiksu mies käy kotona vessassa, fiksumpi mies käy töissä vessassa”
-    name: Johnna Doe
+    name: Joku jäbä salee
     title: Product Marketing Manager at Acme
     backgroundImage: null
     styles:
