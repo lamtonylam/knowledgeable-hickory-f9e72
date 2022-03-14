@@ -35,7 +35,7 @@ sections:
       actions:
         justifyContent: center
     title: Blogi
-    colors: colors-a
+    colors: colors-h
     recentCount: 6
     type: RecentPostsSection
     subtitle: 'Huonoja, tai hyviä mietteitä. Päätä lukijana itse.'
