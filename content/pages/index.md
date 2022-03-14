@@ -53,11 +53,10 @@ sections:
 
           You do you.
       - question: Kokis vai Pepsi
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: |
+          Kokis. Kylmänä, kuumana kesäpäivänä, tölkistä. 
+
+          Ah.
     styles:
       self:
         height: auto
