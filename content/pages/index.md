@@ -114,7 +114,7 @@ sections:
     colors: colors-a
     quote: |
       “Fiksu mies käy kotona vessassa, fiksumpi mies käy töissä vessassa”
-    name: Joku jäbä salee
+    name: '- Joku jäbä salee'
     title: '"Asiantuntija"'
     backgroundImage: null
     styles:
