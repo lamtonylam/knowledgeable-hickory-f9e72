@@ -103,7 +103,6 @@ sections:
       actions:
         justifyContent: center
     title: Featured
-    subtitle: Featured blog posts section example
     colors: colors-h
     posts:
       - content/pages/blog/post-three.md
