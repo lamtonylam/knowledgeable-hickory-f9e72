@@ -40,7 +40,7 @@ sections:
           width: full
       submitLabel: Send Message
     media:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/48ACD.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
