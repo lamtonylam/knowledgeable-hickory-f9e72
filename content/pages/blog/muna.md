@@ -13,6 +13,7 @@ featuredImage:
   caption: ''
 bottomSections: []
 layout: PostLayout
+excerpt: Tykkäätkö munast?
 ---
 > Muna päivässä pitää lääkärin poissa
 > \- Tony
