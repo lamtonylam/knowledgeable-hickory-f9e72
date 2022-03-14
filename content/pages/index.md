@@ -102,7 +102,7 @@ sections:
         - name: Viesti
           label: Viesti
           hideLabel: false
-          placeholder: Your home address
+          placeholder: Viesti
           isRequired: false
           width: full
           type: TextFormControl
