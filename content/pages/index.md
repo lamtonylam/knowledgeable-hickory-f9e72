@@ -99,7 +99,7 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: 1/2
-        - name: home-address
+        - name: Viesti
           label: Home address
           hideLabel: false
           placeholder: Your home address
