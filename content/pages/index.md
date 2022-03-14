@@ -100,7 +100,7 @@ sections:
           isRequired: 'true'
           width: 1/2
         - name: Viesti
-          label: Home address
+          label: Viesti
           hideLabel: false
           placeholder: Your home address
           isRequired: false
