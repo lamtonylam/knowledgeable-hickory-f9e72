@@ -35,7 +35,6 @@ sections:
       actions:
         justifyContent: center
     title: Blogi
-    subtitle: Recent blog posts section example
     colors: colors-a
     recentCount: 6
     type: RecentPostsSection
