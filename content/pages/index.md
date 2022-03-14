@@ -38,6 +38,7 @@ sections:
     colors: colors-a
     recentCount: 6
     type: RecentPostsSection
+    subtitle: 'Huonoja, tai hyviä mietteitä. Päätä lukijana itse.'
   - elementId: ''
     colors: colors-a
     quote: |
