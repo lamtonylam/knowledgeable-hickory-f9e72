@@ -48,11 +48,10 @@ sections:
         answer: |
           Todennäköisesti siellä missä sä et.
       - question: Mikä on elämän tarkoitus?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: |
+          Mistä mä tiedän?
+
+          You do you.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
