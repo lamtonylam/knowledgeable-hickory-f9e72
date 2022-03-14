@@ -42,6 +42,43 @@ sections:
       - content/pages/blog/post-one.md
     type: FeaturedPostsSection
   - elementId: ''
+    showDate: false
+    showAuthor: false
+    showExcerpt: false
+    variant: variant-a
+    actions:
+      - type: Button
+        label: View All
+        altText: View All Posts
+        url: /blog
+        style: primary
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Recent posts
+    subtitle: Recent blog posts section example
+    colors: colors-a
+    recentCount: 6
+    type: RecentPostsSection
+  - elementId: ''
     colors: colors-a
     quote: |
       “Fiksu mies käy kotona vessassa, fiksumpi mies käy töissä vessassa”
@@ -138,41 +175,4 @@ sections:
       text:
         textAlign: left
     type: ContactSection
-  - elementId: ''
-    showDate: false
-    showAuthor: false
-    showExcerpt: false
-    variant: variant-a
-    actions:
-      - type: Button
-        label: View All
-        altText: View All Posts
-        url: /blog
-        style: primary
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    title: Recent posts
-    subtitle: Recent blog posts section example
-    colors: colors-a
-    recentCount: 6
-    type: RecentPostsSection
 ---
