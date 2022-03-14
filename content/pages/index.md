@@ -42,7 +42,6 @@ sections:
   - colors: colors-h
     elementId: ''
     title: FAQ
-    subtitle: The section subtitle
     actions: []
     items:
       - question: How is this different from what we have today?
