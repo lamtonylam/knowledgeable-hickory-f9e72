@@ -43,12 +43,7 @@ sections:
     elementId: ''
     title: Need Answers?
     subtitle: The section subtitle
-    actions:
-      - type: Link
-        label: See all
-        url: /
-        showIcon: true
-        icon: arrowRight
+    actions: []
     items:
       - question: How is this different from what we have today?
         answer: >-
