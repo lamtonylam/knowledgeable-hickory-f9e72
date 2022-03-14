@@ -50,8 +50,7 @@
                     "opacity": 100
                 }
             },
-            "type": "ImageBlock",
-            "url": "/images/logo.svg"
+            "type": "ImageBlock"
         }
     }
 }
