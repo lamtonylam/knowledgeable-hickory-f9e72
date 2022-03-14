@@ -3,74 +3,6 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-h
-    backgroundSize: full
-    title: HALOO ONKO ASIAA?
-    text: |
-      Jätä viesti sit.
-    form:
-      type: FormBlock
-      variant: variant-a
-      elementId: contact-form
-      action: /.netlify/functions/submission_created
-      destination: ''
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          placeholder: Your name
-          isRequired: 'true'
-          width: 1/2
-        - type: EmailFormControl
-          name: email
-          label: Email
-          placeholder: Your email
-          isRequired: 'true'
-          width: 1/2
-        - type: TextFormControl
-          name: address
-          label: Home address
-          placeholder: Your home address
-          isRequired: 'false'
-          width: full
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          isRequired: 'false'
-          width: full
-      submitLabel: Send Message
-    media:
-      url: /images/48ACD.png
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-    type: ContactSection
-  - elementId: ''
     showDate: false
     showAuthor: false
     showExcerpt: false
@@ -142,4 +74,72 @@ sections:
         fontStyle: normal
         textAlign: center
     type: QuoteSection
+  - elementId: ''
+    colors: colors-h
+    backgroundSize: full
+    title: HALOO ONKO ASIAA?
+    text: |
+      Jätä viesti sit.
+    form:
+      type: FormBlock
+      variant: variant-a
+      elementId: contact-form
+      action: /.netlify/functions/submission_created
+      destination: ''
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          placeholder: Your name
+          isRequired: 'true'
+          width: 1/2
+        - type: EmailFormControl
+          name: email
+          label: Email
+          placeholder: Your email
+          isRequired: 'true'
+          width: 1/2
+        - type: TextFormControl
+          name: address
+          label: Home address
+          placeholder: Your home address
+          isRequired: 'false'
+          width: full
+        - type: CheckboxFormControl
+          name: updates
+          label: Sign me up to receive updates
+          isRequired: 'false'
+          width: full
+      submitLabel: Send Message
+    media:
+      url: /images/48ACD.png
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+    type: ContactSection
 ---
