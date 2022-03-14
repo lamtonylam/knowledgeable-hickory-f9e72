@@ -41,7 +41,7 @@ sections:
     subtitle: 'Huonoja, tai hyviä mietteitä. Päätä lukijana itse.'
   - colors: colors-h
     elementId: ''
-    title: Need Answers?
+    title: FAQ
     subtitle: The section subtitle
     actions: []
     items:
