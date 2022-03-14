@@ -52,7 +52,7 @@ sections:
           Mistä mä tiedän?
 
           You do you.
-      - question: How is this different from what we have today?
+      - question: Kokis vai Pepsi
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
