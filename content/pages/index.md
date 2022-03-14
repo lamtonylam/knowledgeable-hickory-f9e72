@@ -102,7 +102,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Featured
+    title: Blogi
     colors: colors-h
     posts:
       - content/pages/blog/post-three.md
