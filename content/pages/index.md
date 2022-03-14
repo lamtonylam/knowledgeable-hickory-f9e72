@@ -6,7 +6,8 @@ sections:
     colors: colors-h
     backgroundSize: full
     title: HALOO ONKO ASIAA?
-    text: We look forward to hearing from you.
+    text: |
+      Jätä viesti sit.
     form:
       type: FormBlock
       variant: variant-a
