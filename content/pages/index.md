@@ -215,3 +215,4 @@ sections:
         textAlign: left
     type: ContactSection
 ---
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=le7cq1olyeuvjxgd17jtnno1f&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=le7cq1olyeuvjxgd17jtnno1f&cover_image=true&theme=default&bar_color_cover=false" alt="spotify-github-profile"></a>
