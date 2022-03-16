@@ -10,6 +10,7 @@ featuredImage:
   type: ImageBlock
   altText: Post thumbnail image
   caption: ''
+  url: /images/881E691E-D965-48BC-ADA2-508016D29EF7.jpeg
 bottomSections: []
 layout: PostLayout
 ---
